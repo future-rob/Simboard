@@ -1,19 +1,35 @@
-Warning Simboard is in early concept // 3D print files have yet to be tested // Build At own Risk
 # Concept
-Boardsport AR training tool. Simboard uses the property of [Gyroscopic Procision](https://www.youtube.com/watch?v=ty9QSiVC2g0 "Gyroscopic Procision") to emulate transition and flow.
+boardsport AR training tool. Simboard uses the property of [Gyroscopic Procision](https://www.youtube.com/watch?v=ty9QSiVC2g0 "Gyroscopic Procision") to give the user the ability to pivot in 360.
+
+Simboard is a low inpact, build it yourself balance board system. In order to simulate the transitional force of a wave a centrifugal flywheel is integrated into the base so the user can direct and pivot off this angular momentum.
+
+A goal in Simboard is to use a combination of off the shelf and rapid manufactured parts; 3D printed carbon fiber, laser cut aluminum and steel. Similar to a drone build with a low barrier of enrty.
+
+As a simple boilder plate for iteration we are exploring optinons for on chip AI systems such as [SensorTile](https://www.youtube.com/watch?v=1tNwY5EGc9Q "SensorTile") and or other edge / cloud enabled chips such as the [Particle Argon](https://store.particle.io/products/argon "Particle Argon") or [AZ3166 IoT](https://amzn.to/2yH5dZ3 "AZ3166 IoT")
+
+
+![simboard-3](//https://images.ctfassets.net/uedi4s066skn/2FsNmPgVR2epgJjQ4VX4oi/3aa24d78f782e7c2b1e5e5afa84e4e9d/simboard-1.jpg?w=960&h=752&q=50&fm=webp)
+
+# Phases
+
+1. __Concept:__ Renderings - Simulation & Virtual Prototype
+2. __Hardware Prototype:__ Proof of Concept - Physical Prototype
+3. __Repeat__ ↻
+
+
 
 ![simboard-2](//images.ctfassets.net/uedi4s066skn/1iwppJgj3K2jdpr1GVnlhp/575fddeea7be512ad937f79955164529/simboard-2.jpg)
 
 
 # Part List
 
-__Balance:__
+__Balance:__ [Github-balance](https://github.com/dark-labs-studio/Simboard/tree/master/prototype/rev-0.1/balance "Github-balance")
 
-__Shell:__
+__Shell:__ [Github-Shell](https://github.com/dark-labs-studio/Simboard/tree/master/prototype/rev-0.1/shell "Github-shell")
 
-__Deck:__
+__Deck:__ [Github-deck](https://github.com/dark-labs-studio/Simboard/tree/master/prototype/rev-0.1/deck "Github-deck")
 
-__Fly Wheel:__
+__Fly Wheel:__ [Github-flyWheel](https://github.com/dark-labs-studio/Simboard/tree/master/prototype/rev-0.1/flyWheel "Github-flyWheel")
 
 __Motor:__ [Goolsk SURPASS High Performance 2216 880KV 14 Poles Brushless Motor](https://amzn.to/3deQ54e "Goolsk SURPASS High Performance 2216 880KV 14 Poles Brushless Motor")
 
@@ -23,18 +39,8 @@ __Flange Coupling:__ [4 Pack 4mm Flange Coupling Connector, Rigid Guide Steel Mo
 
 __Battery:__ [Tattu LiPo Battery Pack 1300mAh 45C 3S 11.1V with XT60 Plug for RC Car Boat Truck Heli Airplane](https://www.amazon.com/gp/product/B013I9RLVK/ref=ox_sc_act_title_1?smid=A35GESQNTB15AT&psc=1 "Tattu LiPo Battery Pack 1300mAh 45C 3S 11.1V with XT60 Plug")
 
----
 
-# Todo
-- __Physical Prototype__
-- __Controller Option__
-
-
-
-
----
-
-# Prototypeing Methods
+# Rapid Manufacturing Methods
 
 ## Deck
 
@@ -54,15 +60,14 @@ __Battery:__ [Tattu LiPo Battery Pack 1300mAh 45C 3S 11.1V with XT60 Plug for RC
 - 3D printed
 - Carbon Fiber material
 
-![simboard-3](//images.ctfassets.net/uedi4s066skn/163XafzJDnaSeCVjahDOBD/793fd59b3a077236ad92284a0f9548a6/simboard-3.jpg)
-
----
 
 # Get Involved
 Start developing Simboard
 [Github](https://github.com/dark-labs-studio/Simboard)
-![SimboardConcept16](//images.ctfassets.net/uedi4s066skn/39nbXA5tfxKNXqeMDrS86k/e32a118a14e30bb10701a6a03210e791/SimboardConcept16.png)
+![SimboardConcept16]
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XPUuF_dECVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Generative Modeling R&D
