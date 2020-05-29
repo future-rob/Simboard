@@ -2,7 +2,6 @@
 Concept + Development
 
 ![simboard-3](https://images.ctfassets.net/uedi4s066skn/2FsNmPgVR2epgJjQ4VX4oi/3aa24d78f782e7c2b1e5e5afa84e4e9d/simboard-1.jpg?w=960&h=752&q=50&fm=webp)
-[DARK-labs Blog Post](https://blog.dark-labs.co/simboard/)
 
 # Concept
 AR balance training tool. Simboard uses the property of [Gyroscopic Procision](https://www.youtube.com/watch?v=ty9QSiVC2g0 "Gyroscopic Procision") to to simulate the transitional force of a wave and give the user the ability to pivot and rotate. At it's core is a brushless motor powered flywheel; generating rotational momentum that is amplified by the balance's low surface contact. Augmenting the user's sense of balance through continious sensor machine learning loops.
