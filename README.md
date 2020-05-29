@@ -1,3 +1,6 @@
+# Simboard
+Concept + Development
+
 ![simboard-3](https://images.ctfassets.net/uedi4s066skn/2FsNmPgVR2epgJjQ4VX4oi/3aa24d78f782e7c2b1e5e5afa84e4e9d/simboard-1.jpg?w=960&h=752&q=50&fm=webp)
 [DARK-labs Blog Post](https://blog.dark-labs.co/simboard/)
 
@@ -41,23 +44,16 @@ __Flange Coupling:__ [4 Pack 4mm Flange Coupling Connector, Rigid Guide Steel Mo
 
 __Battery:__ [Tattu LiPo Battery Pack 1300mAh 45C 3S 11.1V with XT60 Plug for RC Car Boat Truck Heli Airplane](https://www.amazon.com/gp/product/B013I9RLVK/ref=ox_sc_act_title_1?smid=A35GESQNTB15AT&psc=1 "Tattu LiPo Battery Pack 1300mAh 45C 3S 11.1V with XT60 Plug")
 
+In Development
 
-# Rapid Manufacturing Methods
+__Sensor Tile:__ [STEVAL-STLKT01V1](https://www.st.com/content/st_com/en/products/evaluation-tools/solution-evaluation-tools/sensor-solution-eval-boards/steval-stlkt01v1.html)
 
-## Deck
+# Rapid Manufacturing Cloud Resources
 
-- Laser cut aluminum
+__Laser Cutting__
++ [OSH Cut](https://app.oshcut.com)
++ [3D Hubs](https://www.3dhubs.com/)
 
-### Oshcut.com
-
-[OSH Cut: Instant Quote](https://app.oshcut.com/#!PROJECT/PRJ-c22ad1c0-06d7-3d0c-a4d7)
-
-### Flywheel
-
-- Laser cut Steel
-[OSH Cut: Instant Quote](https://app.oshcut.com/#!PROJECT/PRJ-c22ad1c0-06d7-3d0c-a4d7)
-
-## Balance
-
-- 3D printed
-- Carbon Fiber material
+__3D Printing__
++ [3D Hubs](https://www.3dhubs.com/)
++ [Shapeways](https://www.shapeways.com/)
