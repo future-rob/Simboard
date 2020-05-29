@@ -1,3 +1,6 @@
+![simboard-3](https://images.ctfassets.net/uedi4s066skn/2FsNmPgVR2epgJjQ4VX4oi/3aa24d78f782e7c2b1e5e5afa84e4e9d/simboard-1.jpg?w=960&h=752&q=50&fm=webp)
+[DARK-labs Blog Post](https://blog.dark-labs.co/simboard/)
+
 # Concept
 boardsport AR training tool. Simboard uses the property of [Gyroscopic Procision](https://www.youtube.com/watch?v=ty9QSiVC2g0 "Gyroscopic Procision") to give the user the ability to pivot in 360.
 
@@ -8,7 +11,6 @@ A goal in Simboard is to use a combination of off the shelf and rapid manufactur
 As a simple boilder plate for iteration we are exploring optinons for on chip AI systems such as [SensorTile](https://www.youtube.com/watch?v=1tNwY5EGc9Q "SensorTile") and or other edge / cloud enabled chips such as the [Particle Argon](https://store.particle.io/products/argon "Particle Argon") or [AZ3166 IoT](https://amzn.to/2yH5dZ3 "AZ3166 IoT")
 
 
-![simboard-3](//https://images.ctfassets.net/uedi4s066skn/2FsNmPgVR2epgJjQ4VX4oi/3aa24d78f782e7c2b1e5e5afa84e4e9d/simboard-1.jpg?w=960&h=752&q=50&fm=webp)
 
 # Phases
 
@@ -18,7 +20,7 @@ As a simple boilder plate for iteration we are exploring optinons for on chip AI
 
 
 
-![simboard-2](//images.ctfassets.net/uedi4s066skn/1iwppJgj3K2jdpr1GVnlhp/575fddeea7be512ad937f79955164529/simboard-2.jpg)
+![simboard-2](https://images.ctfassets.net/uedi4s066skn/1iwppJgj3K2jdpr1GVnlhp/575fddeea7be512ad937f79955164529/simboard-2.jpg)
 
 
 # Part List
