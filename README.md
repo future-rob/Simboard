@@ -5,15 +5,18 @@ Concept + Development
 [DARK-labs Blog Post](https://blog.dark-labs.co/simboard/)
 
 # Concept
-boardsport AR training tool. Simboard uses the property of [Gyroscopic Procision](https://www.youtube.com/watch?v=ty9QSiVC2g0 "Gyroscopic Procision") to give the user the ability to pivot in 360.
+AR balance training tool. Simboard uses the property of [Gyroscopic Procision](https://www.youtube.com/watch?v=ty9QSiVC2g0 "Gyroscopic Procision") to give the user the ability to pivot and rotatate. As an early concept the basic mechanics and principals still needs to be built and tested. Anything is subject to change as this is an OS development process.
 
 Simboard is a low inpact, build it yourself balance board system. In order to simulate the transitional force of a wave a centrifugal flywheel is integrated into the base so the user can direct and pivot off this angular momentum.
 
-A goal in Simboard is to use a combination of off the shelf and rapid manufactured parts; 3D printed carbon fiber, laser cut aluminum and steel. Similar to a drone build with a low barrier of enrty.
+A goal in Simboard is to use a combination of off the shelf and cloud rapid manufacturable parts; 3D print, laser cut aluminum and steel. Similar to a drone build with a low barrier of enrty and high degree of customizability.
 
 As a simple boilder plate for iteration we are exploring optinons for on chip AI systems such as [SensorTile](https://www.youtube.com/watch?v=1tNwY5EGc9Q "SensorTile") and or other edge / cloud enabled chips such as the [Particle Argon](https://store.particle.io/products/argon "Particle Argon") or [AZ3166 IoT](https://amzn.to/2yH5dZ3 "AZ3166 IoT")
 
 
+# Software:
+1. __Fusion 360:__ [Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
+2. __VS Code:__ [VS Code(https://code.visualstudio.com/)]
 
 # Phases
 
