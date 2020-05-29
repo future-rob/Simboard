@@ -16,10 +16,9 @@ As a simple boilder plate for iteration we are exploring optinons for on chip AI
 
 # Software:
 1. __Fusion 360:__ [Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
-2. __VS Code:__ [VS Code(https://code.visualstudio.com/)]
+2. __VS Code:__ [VS Code](https://code.visualstudio.com/)
 
 # Phases
-
 1. __Concept:__ Renderings - Simulation & Virtual Prototype
 2. __Hardware Prototype:__ Proof of Concept - Physical Prototype
 3. __Repeat__ ↻
