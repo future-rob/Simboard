@@ -5,11 +5,10 @@ Concept + Development
 [DARK-labs Blog Post](https://blog.dark-labs.co/simboard/)
 
 # Concept
-AR balance training tool. Simboard uses the property of [Gyroscopic Procision](https://www.youtube.com/watch?v=ty9QSiVC2g0 "Gyroscopic Procision") to give the user the ability to pivot and rotate. At it's core is a brushless motor powered flywheel; generating rotational momentum that is amplified by the balance's low surface contact.
+AR balance training tool. Simboard uses the property of [Gyroscopic Procision](https://www.youtube.com/watch?v=ty9QSiVC2g0 "Gyroscopic Procision") to to simulate the transitional force of a wave and give the user the ability to pivot and rotate. At it's core is a brushless motor powered flywheel; generating rotational momentum that is amplified by the balance's low surface contact. Augmenting the user's sense of balance using continious sensor machine learning loops.
 
 As an early concept the basic mechanics and principals still needs to be built and tested. Anything is subject to change as this is an OS development process.
 
-Simboard is a low inpact, build it yourself balance board system. In order to simulate the transitional force of a wave a centrifugal flywheel is integrated into the base so the user can direct and pivot off this angular momentum.
 
 A goal in Simboard is to use a combination of off the shelf and cloud rapid manufacturable parts; 3D print, laser cut aluminum and steel. Similar to a drone build with a low barrier of enrty and high degree of customizability.
 
