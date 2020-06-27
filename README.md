@@ -1,6 +1,3 @@
-# Simboard
-Concept + Development
-
 ![simboard-3](https://images.ctfassets.net/uedi4s066skn/2FsNmPgVR2epgJjQ4VX4oi/3aa24d78f782e7c2b1e5e5afa84e4e9d/simboard-1.jpg?w=960&h=752&q=50&fm=webp)
 
 # Concept
